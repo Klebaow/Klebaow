@@ -1,8 +1,7 @@
-                    # Olá, Mundo! 
+# Olá, Mundo! 
 
-                    Meu nome é Kleber e sou estudante de inteligência artificial.
+Meu nome é Kleber e sou estudante de inteligência artificial.
+## Sobre Mim
 
-                    ## Sobre Mim
-
-                    Estou atualmente me aprofundando no campo da inteligência artificial, e inicinando estudos na area de dados.
+Estou atualmente me aprofundando no campo da inteligência artificial, e inicinando estudos na area de dados.
 
