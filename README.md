@@ -1,15 +1,14 @@
-<table align="center">
-<tr>
-<td>
+<h1 align="center">Oi, meu nome é Kleber </h1>
+<h3 align="center">
+    Desenvolvedor de Software Fullstack
+</h3>
 
-# Olá, Mundo!
+- 🌱 Em constante aprendizado com IAs
 
-Meu nome é Kleber e sou estudante de inteligência artificial.
 
-## Sobre Mim
-
-Estou atualmente me aprofundando no campo da inteligência artificial, e iniciando estudos na área de dados.
-
-</td>
-</tr>
-</table>
+##
+🤝 Conecte-se comigo:
+<p>
+  <a href="https://https://www.linkedin.com/in/kleber-gomes-a708261a1/" target="blank">
+        
+ 
