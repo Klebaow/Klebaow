@@ -3,7 +3,7 @@
     Apaixonado por tecnologia
 </h3>
 
-- 🌱 Em constante aprendizado com IAs
+- 🌱 Em constante aprendizado
 
 ##
  🤝 Conecte-se comigo:
