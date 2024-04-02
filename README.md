@@ -1,6 +1,6 @@
-<h1 align="center">Oi, meu nome é Kleber </h1>
+<h1 align="center">Kleber </h1>
 <h3 align="center">
-    Apaixonado por tecnologia
+    
 </h3>
 
 - 🌱 Em constante aprendizado
